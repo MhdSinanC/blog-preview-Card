@@ -31,7 +31,7 @@ img.main-image {
     background-color: hsl(47, 88%, 63%);
     border-radius: 0.25rem;
     display: inline-block;
-    padding: 5px 12px;
+    padding: 0.313rem 0.75rem;
 }
 
 .date {
