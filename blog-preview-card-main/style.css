@@ -21,20 +21,20 @@ main {
 img.main-image {
     box-sizing: content-box;
     width: 100%;
-    border-radius: 15px;
+    border-radius: 0.938rem;
     margin-bottom: 5%;
 }
 
-span#Learning {
-    font-size: 14px;
+.Learning {
+    font-size: 0.875rem;
     font-weight: 800;
     background-color: hsl(47, 88%, 63%);
-    border-radius: 4px;
+    border-radius: 0.25rem;
     display: inline-block;
     padding: 5px 12px;
 }
 
-span#date {
+.date {
     color: hsl(0, 0%, 7%);
     display: block;
     margin: 12px 0;
