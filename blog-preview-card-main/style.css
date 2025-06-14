@@ -14,8 +14,8 @@ main {
     background-color: white;
     border-radius: 1rem;
     padding: 1.25rem;
-    border: 1px solid black;
-    box-shadow: 10px 10px 1px black;
+    border: 0.063rem solid black;
+    box-shadow: 0.625rem 0.625rem 0.063rem black;
 }
 
 img.main-image {
@@ -37,23 +37,23 @@ img.main-image {
 .date {
     color: hsl(0, 0%, 7%);
     display: block;
-    margin: 12px 0;
+    margin: 0.75rem 0;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 0.813rem;
 }
 
 h3 {
-    font-size: 22px;
+    font-size: 1.375rem;
     font-weight: 800;
-    margin: 17px 0;
+    margin: 1.063rem 0;
 }
 
 p {
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 500;
     color: hsl(0, 0%, 42%);
     line-height: 1.6;
-    word-spacing: 2px;
+    word-spacing: 0.125rem;
 }
 
 h4 {
@@ -68,11 +68,11 @@ h4 {
 }
 
 img.avatar {
-    width: 30px;
+    width: 1.875rem;
 }
 
 div h4 {
-    margin-left: 9px;
-    font-size: 13px;
+    margin-left: 0.563rem;
+    font-size: 0.813rem;
     font-weight: 800;
 }
