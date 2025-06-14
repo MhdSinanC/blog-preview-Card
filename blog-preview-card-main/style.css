@@ -1,7 +1,13 @@
+:root {
+    --yellow: hsl(47, 88%, 63%);
+    --almost-black: hsl(0, 0%, 7%);
+    --grey: hsl(0, 0%, 42%);
+}
+
 body {
     font-family: 'Figtree', sans-serif;
     font-size: 1rem;
-    background-color: hsl(47, 88%, 63%);
+    background-color: var(--yellow);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -28,14 +34,14 @@ img.main-image {
 .Learning {
     font-size: 0.875rem;
     font-weight: 800;
-    background-color: hsl(47, 88%, 63%);
+    background-color: var(--yellow);
     border-radius: 0.25rem;
     display: inline-block;
     padding: 0.313rem 0.75rem;
 }
 
 .date {
-    color: hsl(0, 0%, 7%);
+    color: var(--almost-black);
     display: block;
     margin: 0.75rem 0;
     font-weight: 500;
@@ -51,7 +57,7 @@ h3 {
 p {
     font-size: 0.875rem;
     font-weight: 500;
-    color: hsl(0, 0%, 42%);
+    color: var(--grey);
     line-height: 1.6;
     word-spacing: 0.125rem;
 }
