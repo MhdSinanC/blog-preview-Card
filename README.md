@@ -19,7 +19,7 @@ This project includes a blog preview card layout featuring a title, a short desc
 
 ### Screenshot
 
-![Blog Preview Card](blog-preview-card-main\preview.jpg) *(This can be updated with a screenshot of your project)*
+![Blog Preview Card](preview.jpg) *(This can be updated with a screenshot of your project)*
 
 ## Technologies Used
 
