@@ -1,4 +1,3 @@
-````markdown
 # Frontend Mentor | Blog Preview Card
 
 This project is a solution to the **Blog Preview Card** challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-6mRkqkP8Z).
@@ -85,4 +84,3 @@ blog-preview-card/
 ```
 
 Feel free to tweak it if you have additional instructions or more features to mention.
-```
